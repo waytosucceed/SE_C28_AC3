@@ -1,0 +1,167 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "The length of no two sides of a triangle is equal. Identify the type of triangle.",
+    "options": [
+      "Scalene triangle",
+      "Equilateral triangle",
+      "Isosceles triangle",
+      "Both A and C"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Which of the following triangles can never exist?",
+    "options": [
+      "A triangle with all angles acute",
+      "A triangle with all angles obtuse",
+      "A triangle with one angle obtuse and two angles acute",
+      "A triangle with one angle right and two angles acute"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Which triangle has at least two equal sides?",
+    "options": [
+      "Scalene triangle",
+      "Equilateral triangle",
+      "Isosceles triangle",
+      "Both B and C"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q4",
+    "question": "If each angle of a triangle measures 60°, what type of triangle is it?",
+    "options": [
+      "Scalene triangle",
+      "Equilateral triangle",
+      "Isosceles triangle",
+      "Right triangle"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q4.1",
+    "question": "Comment on the following statement.<br><i>Isosceles triangles are always acute triangles.</i>",
+    "options": [
+      "True",
+      "False",
+      "Insufficient information",
+      "None of these"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q5",
+    "question": "A triangle has two angles measuring 50° and 60°. What type of triangle is it?",
+    "options": [
+      "Right triangle",
+      "Acute triangle",
+      "Obtuse triangle",
+      "Scalene triangle"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q6",
+    "question": "Which of the following statements is incorrect?",
+    "options": [
+      "An equilateral triangle is also isosceles.",
+      "A right triangle cannot be isosceles.",
+      "A scalene triangle has no equal sides.",
+      "An obtuse triangle has one angle greater than 90°."
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q7",
+    "question": "Which of the following angle measures can form an obtuse-angled triangle?",
+    "options": [
+      "95°, 30°, 55°",
+      "60°, 70°, 50°",
+      "80°, 45°, 40°",
+      "90°, 60°, 30°"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q8",
+    "question": "Which of the following triangles has all three sides of different lengths and one angle greater than 90°?",
+    "options": [
+      "Scalene obtuse triangle",
+      "Isosceles obtuse triangle",
+      "Right triangle",
+      "Equilateral triangle"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q9",
+    "question": "Samantha is cutting a triangular piece of fabric. She measures the three sides and finds they are 9 cm, 15 cm, and 12 cm. She claims it is an isosceles triangle. Is she correct? If not, what type of triangle is it?",
+    "options": [
+      "Equilateral triangle",
+      "Isosceles Right triangle",
+      "Acute Isosceles triangle",
+      "Scalene triangle"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q10",
+    "question": "A triangular signboard has angles measuring 75° and 35°. Raj says it is a right-angled triangle. Is he correct? If not, what type of triangle is it?",
+    "options": [
+      "Equilateral triangle",
+      "Isosceles Right triangle",
+      "Acute triangle",
+      "Obtuse triangle"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q11",
+    "question": "Ryan is given three angles to form a triangle: 100°, 50°, and 40°. He tries to draw the triangle but is confused. Can a triangle exist with these angles?",
+    "options": [
+      "Yes",
+      "No",
+      "Insufficient information",
+      "None of these"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q12",
+    "question": "If the sides of the given triangle are 5 cm, 12 cm, and 13 cm, what is the value of side c?<br><img width='70%' src='./assests/images/6.png'>",
+    "options": [
+      "15 cm",
+      "5 cm",
+      "12 cm",
+      "13 cm"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q13",
+    "question": "Find the other two angles in the figure given below.<br><img width='80%' src='./assests/images/1.png'>",
+    "options": [
+      "50°, 60°",
+      "40°, 30°",
+      "30°, 30°",
+      "20°, 30°"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q14",
+    "question": "A triangle has the following properties: One of its angles is greater than 90° and no two sides are equal in length. What type of triangle is it?",
+    "options": [
+      "Right Triangle",
+      "Isosceles Triangle",
+      "Acute-angled Triangle",
+      "Scalene Obtuse Triangle"
+    ],
+    "correct": 3
+  }
+]
